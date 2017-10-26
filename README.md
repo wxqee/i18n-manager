@@ -18,3 +18,13 @@ To lint:
 ```bash
 meteor npm run lint
 ```
+
+# Internationalization management toolkit
+## by Robin Wang
+
+This project bases on:
+
+* [todos](https://github.com/meteor/todos) - https://github.com/meteor/todos
+* [Meteor@1.5.2.2](https://www.meteor.com/) - https://www.meteor.com/
+* [Material UI](https://material-ui-next.com) - https://material-ui-next.com
+
